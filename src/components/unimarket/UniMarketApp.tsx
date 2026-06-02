@@ -2,7 +2,7 @@ import { useState, useEffect, useRef, useMemo } from "react";
 import { toast } from "sonner";
 import {
   Home, MessageCircle, Plus, User, Search, SlidersHorizontal,
-  Star, ChevronLeft, X, Camera, Send, LogOut, Bell, Check,
+  Star, ChevronLeft, X, Camera, Send, LogOut,
 } from "lucide-react";
 
 // ──────────────────────────────────────────
